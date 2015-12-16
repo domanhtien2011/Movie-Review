@@ -7,6 +7,8 @@ gem 'rails', '4.2.4'
 gem 'sqlite3'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
+# Use Searchkick
+gem 'searchkick'
 # Use bootstrap
 gem 'bootstrap-sass'
 # Use paperclip
